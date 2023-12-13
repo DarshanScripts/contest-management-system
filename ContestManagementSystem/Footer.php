@@ -1,0 +1,1 @@
+<div style="text-align:center;position:fixed;bottom:0;width:100%;">Copyright &copy;<?php echo date('Y'); ?> CMS. All rights reserved</div>
